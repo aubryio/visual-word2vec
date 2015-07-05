@@ -19,3 +19,4 @@ Usage
 
 `Enter words or MWEs > food,kitchen,delicious chicken,music,piano,saxophone,computer,screen,linux
 `
+![example output](https://raw.githubusercontent.com/aubry74/visual-word2vec/master/figure_1.png)
